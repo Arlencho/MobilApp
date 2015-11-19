@@ -1,0 +1,33 @@
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding\bin\Debug\App1_Binding.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding\bin\Debug\App1_Binding.pdb
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Core.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Core.xml
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding\obj\Debug\App1_Binding.csprojResolveAssemblyReference.cache
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding\obj\Debug\App1_Binding.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding\obj\Debug\App1_Binding.pdb
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding\obj\Debug\ContactPage.xaml.g.cs
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding\obj\Debug\ContactListPage.xaml.g.cs
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\App1_Binding.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\App1_Binding.pdb
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Core.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Core.xml
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding\obj\Debug\App1_Binding.csprojResolveAssemblyReference.cache
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding\obj\Debug\ContactPage.xaml.g.cs
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding\obj\Debug\ContactListPage.xaml.g.cs
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding\obj\Debug\App1_Binding.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding\obj\Debug\App1_Binding.pdb
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\App1_Binding.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\App1_Binding.pdb
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding\obj\Debug\App1_Binding.csprojResolveAssemblyReference.cache
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding\obj\Debug\ContactPage.xaml.g.cs
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding\obj\Debug\ContactListPage.xaml.g.cs
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding\obj\Debug\App1_Binding.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding\obj\Debug\App1_Binding.pdb

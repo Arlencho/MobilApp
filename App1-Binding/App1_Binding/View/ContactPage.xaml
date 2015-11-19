@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1_Binding.ContactPage">
+
+
+  <ContentPage.Content>
+    <StackLayout Padding="30">
+      <Label Text="Full Name:"/>
+      <Label Text="{Binding FullName}"/>
+      <Label Text="Email:"/>
+      <Label Text="{Binding Email}"/>
+      <Label Text="Phone:"/>
+      <Label Text="{Binding Phone}"/>
+      <Label Text="Age:"/>
+      <Label Text="{Binding Age}"/>
+    </StackLayout>
+  </ContentPage.Content>
+
+</ContentPage>
+

@@ -1,0 +1,69 @@
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid.pdb
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid.apk
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid-Signed.apk
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\FormsViewGroup.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.pdb
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\obj\Debug\App1_Binding.Droid.csprojResolveAssemblyReference.cache
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\obj\Debug\App1_Binding.Droid.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\obj\Debug\App1_Binding.Droid.pdb
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\obj\Debug\android\bin\App1_Binding.Droid.apk
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable\icon.png
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\obj\Debug\R.cs.flag
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding\App1-Binding\App1_Binding.Droid\obj\Debug\uploadflags.txt
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid.pdb
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid.apk
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid-Signed.apk
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\FormsViewGroup.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.pdb
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\App1_Binding.Droid.csprojResolveAssemblyReference.cache
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\App1_Binding.Droid.dll
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\App1_Binding.Droid.pdb
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\android\bin\App1_Binding.Droid.apk
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable\icon.png
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\R.cs.flag
+D:\SourceCode\Nackademin\Lektioner\2015-11-19\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\uploadflags.txt
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid.pdb
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid.apk
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.Droid-Signed.apk
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\App1_Binding.pdb
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\App1_Binding.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\App1_Binding.Droid.dll
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\App1_Binding.Droid.pdb
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\android\bin\App1_Binding.Droid.apk
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\R.cs.flag
+C:\Users\Arlen\Desktop\App1-Binding DONE\App1-Binding\App1_Binding.Droid\obj\Debug\uploadflags.txt
